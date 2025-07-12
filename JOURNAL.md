@@ -14,6 +14,7 @@ I know it's very simple but for some one starter like me it's so much.The main l
 I think this project can be completed shorty as it's main task is to find the right hardware and how to arrange them and design case
 ### ***All our dreams can come true, if we have the courage to pursue them." — Walt Disney.***
 ---
+---
 # Day 2[Jul 11 2025]
 ## TimeSpent:- 5hrs
 Today i did most the work like finding the hardware and make a circuit diagram.I was all possible because of my previous experience in finding the correct website and by the way i also took AI's help for searching parts
@@ -33,4 +34,22 @@ Today i did most the work like finding the hardware and make a circuit diagram.I
 I think that's all for today tomorrow i will be looking in make the case for this and finalize it.Hope everything goes alright
 
 ### ***When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place -- Gita.***
+---
+---
+# Day 3[Jul 12 2025]
+## TimeSpent:- 4hrs
+This project is has been a great learning experience and as it came to it's end the final part is it's case which is also done .It's very simple case just to hold the components together not much than that.
+## Case :-
+![Case_Bottom_1](https://github.com/MithilSaiReddy/mp3-player/blob/main/assets/Bottom_1.png)
+
+![Case_Bottom_2](https://github.com/MithilSaiReddy/mp3-player/blob/main/assets/Bottom_2.png)
+
+![Case_Top_1](https://github.com/MithilSaiReddy/mp3-player/blob/main/assets/Top_1.png)
+
+![Case_Top_2](https://github.com/MithilSaiReddy/mp3-player/blob/main/assets/Top_2.png)
+
+
+As said this time everything  went smooth from the idea to  the  final project submission..I learned one thing from this entire event .Start small !
+
+### ***The mind acts like an enemy for those who do not control it. -- Gita.***
 ---
