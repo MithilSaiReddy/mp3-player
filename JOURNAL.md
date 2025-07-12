@@ -4,6 +4,7 @@ author: "Mithil (@Mithil)"
 description: "Portable mp3 music player"
 created_at: "2025-07-10"
 ---
+# Total Time:- 12hrs
 ---
 # Day 1[Jul 10 2025]
 ## TimeSpent:- 3hrs
