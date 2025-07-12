@@ -48,8 +48,9 @@ This project is has been a great learning experience and as it came to it's end 
 
 ![Case_Top_2](https://github.com/MithilSaiReddy/mp3-player/blob/main/assets/Top_2.png)
 
+## Conclusion :-
 
-As said this time everything  went smooth from the idea to  the  final project submission..I learned one thing from this entire event .Start small !
+#### As said this time everything  went smooth from the idea to  the  final project submission..I learned one thing from this entire event .Start small !
 
 ### ***The mind acts like an enemy for those who do not control it. -- Gita.***
 ---
